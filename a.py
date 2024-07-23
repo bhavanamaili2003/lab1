@@ -1,0 +1,5 @@
+print("heloooo")
+print("hiiiii")
+print("hhiheloo")
+print("heloooo wprld")
+print("heloooo python")
